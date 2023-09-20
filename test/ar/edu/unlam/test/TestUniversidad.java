@@ -1,4 +1,4 @@
-package tp_pb2_parcial;
+package ar.edu.unlam.test;
 
 import static org.junit.Assert.*;
 
